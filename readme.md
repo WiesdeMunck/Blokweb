@@ -69,16 +69,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** -zwart-
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** -Responsive-
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** - Hier is de link naar mijn eigen ontwerp https://www.figma.com/file/HIvo1ms32MjCC2dFWI0p6U/Untitled-Copy?node-id=0%3A1 -
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/mobile_ontwerp.png" alt="Homepage moet overbrengen wat ik die en intresse opwekken">
+<img src="images/desktop_ontwerp.png" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/blog_mob.png" alt="omschrijving van de pagina">
+<img src="images/blog_desk.png" alt="omschrijving van de pagina">
