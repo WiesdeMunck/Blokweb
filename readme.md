@@ -78,9 +78,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s) van de eerste pagina (small screen):**
 
 <img src="images/mobile_ontwerp.png" alt="Homepage moet overbrengen wat ik die en intresse opwekken">
-<img src="images/desktop_ontwerp.png" alt="omschrijving van de pagina">
+<img src="images/desktop_ontwerp.png" alt="Homepage moet overbrengen wat ik die en intresse opwekken">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/blog_mob.png" alt="omschrijving van de pagina">
-<img src="images/blog_desk.png" alt="omschrijving van de pagina">
+<img src="images/blog_mob.png" alt="blog pagina voor nieuws en infromatie">
+<img src="images/blog_desk.png" alt="blog pagina voor nieuws en infromatie">
