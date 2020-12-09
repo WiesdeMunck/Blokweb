@@ -42,9 +42,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-<img src="./images/v1_voortgang_1.png" alt="">
-<img src="./images/v1_voortgang_2.png" alt="">
-<img src="./images/v1_voortgang_3.png" alt="">
+<img src="./images/v1_voorgang_1.png" alt="">
+<img src="./images/v1_voorgang_2.png" alt="">
+<img src="./images/v1_voorgang_3.png" alt="">
 
 ### Agenda voor meeting
 
