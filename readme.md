@@ -42,17 +42,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="./images/v1_voortgang_1.png" alt="">
+<img src="./images/v1_voortgang_2.png" alt="">
+<img src="./images/v1_voortgang_3.png" alt="">
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Rachid      
+| Had als feedback dat ik de scrollbar
+| was vergeten te verstoppen van de carousel.
+| 
+| 
 
 ### Verslag van meeting
 
