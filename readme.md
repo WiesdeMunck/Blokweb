@@ -15,15 +15,15 @@ Dit kwam deels door een sledhte planning.
 Hierdoor heb ik mij zef moeten te weinign tijd
 
 voorpagina
-<img src="./images/hoofd1" alt="">
-<img src="./images/hoofd2" alt="">
-<img src="./images/hoofd3" alt="">
+<img src="./images/hoofd1.png" alt="">
+<img src="./images/hoofd2.png" alt="">
+<img src="./images/hoofd3.png" alt="">
 
 blog pagina
-<img src="./images/b1" alt="">
-<img src="./images/b2" alt="">
-<img src="./images/b3" alt="">
-<img src="./images/b4" alt="">
+<img src="./images/b1.png" alt="">
+<img src="./images/b2.png" alt="">
+<img src="./images/b3.png" alt="">
+<img src="./images/b4.png" alt="">
 
 ## Voortgang 3 (week 6)
 
@@ -35,8 +35,8 @@ In deze week heb ik geen vooruit gang geboekt.
 In deze week ben ik begonnen het het maken van pagina 2.
 Ben tegen geen problemen aangelopen. 
 
-<img src="./images/blog1" alt="">
-<img src="./images/blog2" alt="">
+<img src="./images/blog1.png" alt="">
+<img src="./images/blog2.png" alt="">
 
 
 
