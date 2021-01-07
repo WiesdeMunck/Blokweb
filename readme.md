@@ -1,36 +1,42 @@
 # Procesverslag
 **Auteur:** -Wies de Munck-
 
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-
-
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
-
+1. Rachied/Sanne - Css carousel scrollbar : css regel 22
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+In deze week voorhet eind gesprek heb ik de pagina's die ik eerder had ontworpen.
+Gevult met tekst en responsive gemaakt.
 
-**Screenshot(s):**
+Ik had voral moeite met het hamburger menu.
+Dit kwam deels door een sledhte planning.
+Hierdoor heb ik mij zef moeten te weinign tijd
 
--screenshot(s) van je eindresultaat-
+voorpagina
+<img src="./images/hoofd1" alt="">
+<img src="./images/hoofd2" alt="">
+<img src="./images/hoofd3" alt="">
 
-
+blog pagina
+<img src="./images/b1" alt="">
+<img src="./images/b2" alt="">
+<img src="./images/b3" alt="">
+<img src="./images/b4" alt="">
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
-
+In deze week heb ik geen vooruit gang geboekt.
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+In deze week ben ik begonnen het het maken van pagina 2.
+Ben tegen geen problemen aangelopen. 
+
+<img src="./images/blog1" alt="">
+<img src="./images/blog2" alt="">
 
 
 
@@ -38,7 +44,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Aan de eerste pagina begonnen er missen nog elementen, maar het skalet staat.
 
 **Screenshot(s):**
 
